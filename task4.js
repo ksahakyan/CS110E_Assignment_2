@@ -3,7 +3,7 @@
 
 let x1=2;
 let x2=3;
-let y1=10;
+let y1=1;
 let y2=2;
 
 if ((x1 | x2 | y1| y2)<0){
