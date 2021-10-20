@@ -1,7 +1,7 @@
 
 
 let width=1;
-let h_tr=3;
+let h_tr=2;
 let h_rec=1;
 let base=1;
 
